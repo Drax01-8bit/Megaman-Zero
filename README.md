@@ -3,6 +3,8 @@ Conversión de Metal force para la NES a Megaman Zero
 
 Hack creator: Xander Max
 
+(He tenido permiso del creador para publicar el hack.)
+
 # Collaborators:
 
 - Velpachallenger
