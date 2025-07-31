@@ -5,9 +5,9 @@ Hack creator: Xander Max
 
 Collaborators:
 
--Velpachallenger
+- Velpachallenger
 - Al Vino02
--Drax01
+- Drax01
 
 Video:
 
